@@ -1,0 +1,715 @@
+Cícero
+Botafogo
+BOT
+CÍCEROMEIA
+
+19.40 10.50 2
+Botafogo
+X
+Fortaleza
+C$ 14.20 6.85
+COMPRAR
+Matheus Savio
+CSA
+CSA
+MATHEUS SAVIOMEIA
+
+13.00 7.00 2
+CSA
+X
+Santos
+C$ 8.94 4.78
+COMPRAR
+Elias
+Atlético-MG
+ATL
+ELIASMEIA
+
+13.20 8.55 2
+Ceará
+X
+Atlético-MG
+C$ 13.83 4.19
+COMPRAR
+Márcio Araújo
+Chapecoense
+CHA
+MÁRCIO ARAÚJOMEIA
+
+10.50 6.30 2
+Chapecoense
+X
+Athlético-PR
+C$ 8.23 4.00
+VENDER
+João Paulo
+Botafogo
+BOT
+JOÃO PAULOMEIA
+
+12.50 6.65 2
+Botafogo
+X
+Fortaleza
+C$ 10.08 3.97
+COMPRAR
+Edinho
+Fortaleza
+FOR
+EDINHOMEIA
+
+9.80 6.10 2
+Botafogo
+X
+Fortaleza
+C$ 9.17 3.34
+COMPRAR
+Romulo
+Grêmio
+GRE
+ROMULOMEIA
+
+8.20 8.20 1
+Grêmio
+X
+Fluminense
+C$ 6.45 2.45
+COMPRAR
+Hudson
+São Paulo
+SAO
+HUDSONMEIA
+
+6.20 6.95 2
+São Paulo
+X
+Flamengo
+C$ 12.30 2.10
+COMPRAR
+Matheus Barbosa
+Avaí
+AVA
+MATHEUS BARBOSAMEIA
+
+4.80 3.30 2
+Bahia
+X
+Avaí
+C$ 4.51 1.87
+VENDER
+Lucas Mineiro
+Vasco
+VAS
+LUCAS MINEIROMEIA
+
+6.30 3.60 2
+Vasco
+X
+Corinthians
+C$ 6.46 1.67
+COMPRAR
+Bruno Silva
+Fluminense
+FLU
+BRUNO SILVAMEIA
+
+5.40 4.05 2
+Grêmio
+X
+Fluminense
+C$ 7.99 1.26
+COMPRAR
+Elton
+Bahia
+BAH
+ELTONMEIA
+
+5.20 3.05 2
+Bahia
+X
+Avaí
+C$ 5.98 1.19
+COMPRAR
+Yan Sasse
+Vasco
+VAS
+YAN SASSEMEIA
+
+3.70 2.30 2
+Vasco
+X
+Corinthians
+C$ 4.33 0.93
+COMPRAR
+Carlos Sánchez
+Santos
+SAN
+CARLOS SÁNCHEZMEIA
+
+9.50 4.60 2
+CSA
+X
+Santos
+C$ 12.42 0.83
+COMPRAR
+Régis
+Chapecoense
+CHA
+RÉGISMEIA
+
+2.00 2.50 2
+Chapecoense
+X
+Athlético-PR
+C$ 4.25 0.78
+COMPRAR
+Léo Sena
+Goiás
+GOI
+LÉO SENAMEIA
+
+2.00 1.90 2
+Cruzeiro
+X
+Goiás
+C$ 3.80 0.47
+COMPRAR
+Tharlis
+Chapecoense
+CHA
+THARLISMEIA
+
+2.90 2.90 1
+Chapecoense
+X
+Athlético-PR
+C$ 3.43 0.43
+COMPRAR
+Giovanni Augusto
+Goiás
+GOI
+GIOVANNI AUGUSTOMEIA
+
+3.40 1.90 2
+Cruzeiro
+X
+Goiás
+C$ 4.80 0.36
+COMPRAR
+Paulo Roberto
+Fortaleza
+FOR
+PAULO ROBERTOMEIA
+
+3.20 2.10 2
+Botafogo
+X
+Fortaleza
+C$ 5.19 0.33
+COMPRAR
+José Welison
+Atlético-MG
+ATL
+JOSÉ WELISONMEIA
+
+2.90 1.45 2
+Ceará
+X
+Atlético-MG
+C$ 3.77 0.30
+COMPRAR
+João Paulo
+Avaí
+AVA
+JOÃO PAULOMEIA
+
+2.30 1.95 2
+Bahia
+X
+Avaí
+C$ 4.77 0.19
+COMPRAR
+Gregore
+Bahia
+BAH
+GREGOREMEIA
+
+3.20 5.30 2
+Bahia
+X
+Avaí
+C$ 12.26 0.19
+COMPRAR
+Pedro Castro
+Avaí
+AVA
+PEDRO CASTROMEIA
+
+2.20 0.95 2
+Bahia
+X
+Avaí
+C$ 2.73 0.16
+COMPRAR
+Matheus Henrique
+Grêmio
+GRE
+MATHEUS HENRIQUEMEIA
+
+2.10 2.10 2
+Grêmio
+X
+Fluminense
+C$ 5.09 0.16
+COMPRAR
+Madson
+CSA
+CSA
+MADSONMEIA
+
+2.60 3.05 2
+CSA
+X
+Santos
+C$ 7.41 0.13
+COMPRAR
+Geovane
+Goiás
+GOI
+GEOVANEMEIA
+
+0.30 1.70 2
+Cruzeiro
+X
+Goiás
+C$ 3.59 0.05
+COMPRAR
+Bruno Ramires
+CSA
+CSA
+BRUNO RAMIRESMEIA
+
+0.70 1.85 2
+CSA
+X
+Santos
+C$ 4.18 0.02
+COMPRAR
+Rodriguinho
+Cruzeiro
+CRU
+RODRIGUINHOMEIA
+
+0.00 2.00 1
+Cruzeiro
+X
+Goiás
+C$ 4.86 0.00
+COMPRAR
+Mosquera
+Avaí
+AVA
+MOSQUERAMEIA
+
+0.00 1.00 1
+Bahia
+X
+Avaí
+C$ 3.47 0.00
+COMPRAR
+Rodrigo Lindoso
+Internacional
+INT
+RODRIGO LINDOSOMEIA
+
+0.00 2.90 1
+Palmeiras
+X
+Internacional
+C$ 6.87 0.00
+COMPRAR
+Léo Cittadini
+Athlético-PR
+ATL
+LÉO CITTADINIMEIA
+
+0.00 0.00 -
+Chapecoense
+X
+Athlético-PR
+C$ 5.00 0.00
+COMPRAR
+Erick
+Athlético-PR
+ATL
+ERICKMEIA
+
+0.00 0.00 -
+Chapecoense
+X
+Athlético-PR
+C$ 1.00 0.00
+VENDER
+Henrique
+Cruzeiro
+CRU
+HENRIQUEMEIA
+
+0.00 1.50 1
+Cruzeiro
+X
+Goiás
+C$ 7.98 0.00
+COMPRAR
+Ronaldo
+Flamengo
+FLA
+RONALDOMEIA
+
+0.00 0.00 -
+São Paulo
+X
+Flamengo
+C$ 4.00 0.00
+COMPRAR
+Piris da Motta
+Flamengo
+FLA
+PIRIS DA MOTTAMEIA
+
+0.00 0.00 -
+São Paulo
+X
+Flamengo
+C$ 5.00 0.00
+COMPRAR
+Renatinho
+Goiás
+GOI
+RENATINHOMEIA
+
+0.00 0.00 1
+Cruzeiro
+X
+Goiás
+C$ 3.47 0.00
+COMPRAR
+Felipe
+Fortaleza
+FOR
+FELIPEMEIA
+
+0.00 5.40 1
+Botafogo
+X
+Fortaleza
+C$ 6.52 0.00
+COMPRAR
+Ramiro
+Corinthians
+COR
+RAMIROMEIA
+
+0.20 7.30 2
+Vasco
+X
+Corinthians
+C$ 15.50 0.04
+COMPRAR
+Didira
+CSA
+CSA
+DIDIRAMEIA
+
+2.10 2.00 2
+CSA
+X
+Santos
+C$ 5.43 0.05
+COMPRAR
+Fabinho
+Ceará
+CEA
+FABINHOMEIA
+
+1.20 2.55 2
+Ceará
+X
+Atlético-MG
+C$ 6.11 0.06
+COMPRAR
+Auremir
+Ceará
+CEA
+AUREMIRMEIA
+
+-0.30 2.10 2
+Ceará
+X
+Atlético-MG
+C$ 4.43 0.08
+COMPRAR
+Gustavo Bochecha
+Botafogo
+BOT
+GUSTAVO BOCHECHAMEIA
+
+-0.20 3.70 2
+Botafogo
+X
+Fortaleza
+C$ 7.94 0.11
+COMPRAR
+Gustavo Campanharo
+Chapecoense
+CHA
+GUSTAVO CAMPANHAROMEIA
+
+0.60 0.55 2
+Chapecoense
+X
+Athlético-PR
+C$ 2.16 0.27
+COMPRAR
+Patrick
+Internacional
+INT
+PATRICKMEIA
+
+4.70 4.70 1
+Palmeiras
+X
+Internacional
+C$ 8.55 0.45
+COMPRAR
+Nathan
+Atlético-MG
+ATL
+NATHANMEIA
+
+1.20 1.20 1
+Ceará
+X
+Atlético-MG
+C$ 3.41 0.59
+COMPRAR
+Caio Henrique
+Fluminense
+FLU
+CAIO HENRIQUEMEIA
+
+1.60 1.05 2
+Grêmio
+X
+Fluminense
+C$ 4.60 0.60
+COMPRAR
+Andrey
+Vasco
+VAS
+ANDREYMEIA
+
+1.70 1.70 1
+Vasco
+X
+Corinthians
+C$ 4.35 0.65
+COMPRAR
+Robinho
+Cruzeiro
+CRU
+ROBINHOMEIA
+
+4.20 4.20 1
+Cruzeiro
+X
+Goiás
+C$ 8.33 0.67
+COMPRAR
+Ramires
+Bahia
+BAH
+RAMIRESMEIA
+
+0.80 5.25 2
+Bahia
+X
+Avaí
+C$ 13.54 0.82
+COMPRAR
+Tomás Andrade
+Athlético-PR
+ATL
+TOMÁS ANDRADEMEIA
+
+0.70 1.25 2
+Chapecoense
+X
+Athlético-PR
+C$ 5.24 0.87
+COMPRAR
+Tchê Tchê
+São Paulo
+SAO
+TCHÊ TCHÊMEIA
+
+0.10 0.10 2
+São Paulo
+X
+Flamengo
+C$ 2.63 0.91
+COMPRAR
+Naldo
+CSA
+CSA
+NALDOMEIA
+
+-0.20 -0.20 1
+CSA
+X
+Santos
+C$ 2.08 0.92
+COMPRAR
+Soteldo
+Santos
+SAN
+SOTELDOMEIA
+
+0.40 0.85 2
+CSA
+X
+Santos
+C$ 4.72 1.04
+COMPRAR
+Ricardinho
+Ceará
+CEA
+RICARDINHOMEIA
+
+-0.30 0.00 2
+Ceará
+X
+Atlético-MG
+C$ 3.12 1.25
+COMPRAR
+Everton
+São Paulo
+SAO
+EVERTONMEIA
+
+0.70 2.75 2
+São Paulo
+X
+Flamengo
+C$ 9.62 1.34
+COMPRAR
+Airton
+Fluminense
+FLU
+AIRTONMEIA
+
+0.20 0.40 2
+Grêmio
+X
+Fluminense
+C$ 4.58 1.39
+COMPRAR
+Edenílson
+Internacional
+INT
+EDENÍLSONMEIA
+
+3.60 3.60 1
+Palmeiras
+X
+Internacional
+C$ 9.52 1.48
+COMPRAR
+Diego
+Flamengo
+FLA
+DIEGOMEIA
+
+2.40 0.80 2
+São Paulo
+X
+Flamengo
+C$ 6.93 1.53
+COMPRAR
+Allan
+Fluminense
+FLU
+ALLANMEIA
+
+-2.10 -0.50 2
+Grêmio
+X
+Fluminense
+C$ 1.97 1.57
+COMPRAR
+Lucas Silva
+Cruzeiro
+CRU
+LUCAS SILVAMEIA
+
+0.00 -0.25 2
+Cruzeiro
+X
+Goiás
+C$ 3.62 1.58
+COMPRAR
+Wellington
+Athlético-PR
+ATL
+WELLINGTONMEIA
+
+-1.90 -1.25 2
+Chapecoense
+X
+Athlético-PR
+C$ 1.21 1.84
+COMPRAR
+Yago Pikachu
+Vasco
+VAS
+YAGO PIKACHUMEIA
+
+1.40 1.70 2
+Vasco
+X
+Corinthians
+C$ 9.22 1.88
+COMPRAR
+Jean Mota
+Santos
+SAN
+JEAN MOTAMEIA
+
+0.00 1.90 2
+CSA
+X
+Santos
+C$ 9.03 1.93
+COMPRAR
+Diego Pituca
+Santos
+SAN
+DIEGO PITUCAMEIA
+
+-1.00 -1.65 2
+CSA
+X
+Santos
+C$ 1.26 2.00
+COMPRAR
+Michel
+Grêmio
+GRE
+MICHELMEIA
+
+-1.50 -1.50 1
+Grêmio
+X
+Fluminense
+C$ 3.69 2.31
+COMPR

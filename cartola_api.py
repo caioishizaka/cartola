@@ -25,3 +25,18 @@ def get_summary():
 	df['status'] = df.apply(lambda x: status_dict[str(x['status_id'])]['nome'],axis = 1)
 
 	return df
+
+def get_player_stats(atleta_id):
+	"""
+	Bate na rota mercado/atleta da api, e retorna os stats do jogador
+	"""
+	url = "https://api.cartolafc.globo.com/auth/mercado/atleta/" + str(atleta_id) + "/pontuacao"
+	try:
+		resp = get(url)
+	except Exception:
+		return null
+	if resp.status_code != 200:
+		return null
+	resp_json = resp.json()
+
+	
